@@ -15,11 +15,11 @@ Users should be able to:
 
 #### Desktop Screenshot(1440px)
 
-![](./design/Desktop.jpeg.jpg)
+![](./design/Desktop.jpeg)
 
 #### Mobile Screenshot(350px)
 
-![](./design/Mobile.jpeg.jpg)
+![](./design/Mobile.jpeg)
 
 ## My process
 
